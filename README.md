@@ -1,7 +1,6 @@
 ### Olá! Me chamo Igor Wilson. 👋
 
-- 🔭 Atualmente trabalho com analises e desenvolvimento de aplicações Web.
-- 🌱 Estudando JavaScript, TypeScript, React JS, React Native, Node JS, Firebase, SQL Server e MySQL.
+- 🌱 Programador Full Stack.
 - 💬 Contate-me no email: igorwilsonsimiao@gmail.com
 - 😄 Pronomes: ele/dele
 
